@@ -1,7 +1,7 @@
 #include <stdio.h>
 int b[10000][10000];
-int main(void)
-{
+int main(void){
+   
     int i, j;
 
     printf("Go!\n");
