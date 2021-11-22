@@ -14,4 +14,5 @@ int main(void){
     printf("%c %d %d\n",ch,ch,ch-'0');
 
     return 0;
+    
 }
