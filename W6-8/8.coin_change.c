@@ -75,4 +75,5 @@ void change(int amount, int smallest, int k){
 			numbers[smallest] = tmp;
 		}
 	}
+	
 }
